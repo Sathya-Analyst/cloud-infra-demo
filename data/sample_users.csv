@@ -1,0 +1,11 @@
+player_id,region,device,match_type,level,kills,deaths,avg_ping_ms,session_minutes,spend_inr
+FF101,India,Android,Ranked,18,6,2,48,35,0
+FF102,India,Android,Classic,12,2,5,120,18,0
+FF103,Brazil,iOS,Ranked,25,9,3,42,55,120
+FF104,USA,iOS,Ranked,40,14,4,35,80,850
+FF105,India,Android,Classic,8,1,7,180,10,0
+FF106,Germany,PC,Ranked,32,11,5,50,65,300
+FF107,India,Android,Ranked,22,7,6,95,40,50
+FF108,Brazil,Android,Classic,15,3,8,160,20,0
+FF109,USA,iOS,Ranked,55,18,2,30,120,1500
+FF110,India,Android,Classic,5,0,6,200,8,0
